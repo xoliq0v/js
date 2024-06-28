@@ -1,0 +1,2 @@
+# js
+This just script :)
